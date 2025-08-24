@@ -1,0 +1,11 @@
+id_sucursal,nombre,region,ciudad
+S001,Sucursal Centro Lima,Costa,Lima
+S002,Sucursal Arequipa Norte,Sur,Arequipa
+S003,Sucursal Cusco Plaza,Sierra,Cusco
+S004,Sucursal Lima Norte,Costa,Lima
+S005,Sucursal Trujillo Mall,Costa,Trujillo
+S006,Sucursal Arequipa Centro,Sur,Arequipa
+S007,Sucursal Cusco Centro,Sierra,Cusco
+S008,Sucursal Lima Este,Costa,Lima
+S009,Sucursal Trujillo Centro,Costa,Trujillo
+S010,Sucursal Arequipa Sur,Sur,Arequipa

@@ -1,0 +1,11 @@
+id_cliente,nombre,segmento,ciudad
+C001,Juan Pérez,Premium,Lima
+C002,María García,Estándar,Arequipa
+C003,Carlos López,Premium,Cusco
+C004,Ana Rodríguez,Básico,Lima
+C005,Pedro Martínez,Estándar,Trujillo
+C006,Sofía Hernández,Premium,Arequipa
+C007,Diego Silva,Básico,Cusco
+C008,Lucía Torres,Estándar,Lima
+C009,Roberto Flores,Premium,Trujillo
+C010,Carmen Vega,Básico,Arequipa

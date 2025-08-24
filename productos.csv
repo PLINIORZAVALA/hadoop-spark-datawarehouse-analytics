@@ -1,0 +1,11 @@
+id_producto,nombre,categoria,precio_lista
+P001,Laptop HP,Electrónicos,2500.00
+P002,Mouse Logitech,Electrónicos,45.00
+P003,Teclado Mecánico,Electrónicos,120.00
+P004,Monitor Samsung,Electrónicos,350.00
+P005,Silla Oficina,Muebles,180.00
+P006,Escritorio Madera,Muebles,450.00
+P007,Lámpara LED,Iluminación,75.00
+P008,Impresora Canon,Electrónicos,280.00
+P009,Tablet iPad,Electrónicos,800.00
+P010,Auriculares Sony,Electrónicos,150.00
